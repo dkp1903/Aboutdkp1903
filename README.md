@@ -15,9 +15,9 @@ I pursue a Machine Learning project, Implementation of Network Intrusion Detecti
 I am a Facebook - Udacity, Secure and Private AI Challenge Scholar.
 
 My previous experiences include:
-    1. Summer Intern, Scholify, working on the B2B website of Scholify using React, NodeJS and MongoDB.
-    2. Technical Content Writing Intern, GeeksforGeeks
-    3. Core member, Unplanned Inc
+    * Summer Intern, Scholify, working on the B2B website of Scholify using React, NodeJS and MongoDB.
+    * Technical Content Writing Intern, GeeksforGeeks
+    * Core member, Unplanned Inc
     
 Positions of responsibility of mine include:
     1. Chairperson, MUN Society, Debate Club, DA-IICT
