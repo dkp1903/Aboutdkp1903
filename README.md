@@ -1,7 +1,6 @@
-# Aboutdkp1903
+## Aboutdkp1903
 
-This is a precis about all that I do, aspire and attempt. Blatant that I am, I made this so that all the potential recruiters who checkout my GitHub profile don't waste their precious time scavenging through a whole lot of repositories trying to make sense of what I want with life, so I went the extra mile of jotting it all down here, or all that I could think of.
-
+This is a precis about all that I do, aspire and attempt.
 
 I am Dushyant, from DA-IICT, Gandhingar, India, a Third year student in BTech Information and Communication Technology
 
@@ -9,14 +8,14 @@ My profile shows projects from various and seemingly variate areas of Competitiv
 
 I will be interning as Technical Analyst at Deutsche Bank Pvt Ltd, India in May 2020.
 
-I am associated as Senior Developer with Cybernoob, a startup that proposes Cybersecurity based training and services, and as Web Development Intern at Karrot Labs, USA, working on making a Dashboard app using React and NodeJS.
+I am associated as Lead Developer with Cybernoob, a startup that provides Cybersecurity based training and services, and as Web Development Intern at Karrot Labs, USA, working on making a Dashboard app using React and NodeJS.
 
 I pursue a Machine Learning project, Implementation of Network Intrusion Detection Systems using Machine Learning Models at SVNIT, Surat.
 
 I am a Facebook - Udacity, Secure and Private AI Challenge Scholar.
 
 My previous experiences include:
-    1.Summer Intern, Scholify, working on the B2B website of Scholify using React, NodeJS and MongoDB.
+    1. Summer Intern, Scholify, working on the B2B website of Scholify using React, NodeJS and MongoDB.
     2. Technical Content Writing Intern, GeeksforGeeks
     3. Core member, Unplanned Inc
     
@@ -32,4 +31,5 @@ I am a passionate reader, and I believe I am extremely energetic, enthusiastic a
 Feel free to reach out to me on
 
 LinkedIn: www.linkedin.com/in/dkp1903
+
 Mail: dushyantpathak6789@gmail.com
