@@ -15,14 +15,14 @@ I pursue a Machine Learning project, Implementation of Network Intrusion Detecti
 I am a Facebook - Udacity, Secure and Private AI Challenge Scholar.
 
 My previous experiences include:
-    * Summer Intern, Scholify, working on the B2B website of Scholify using React, NodeJS and MongoDB.
-    * Technical Content Writing Intern, GeeksforGeeks
-    * Core member, Unplanned Inc
+* Summer Intern, Scholify, working on the B2B website of Scholify using React, NodeJS and MongoDB.
+* Technical Content Writing Intern, GeeksforGeeks
+* Core member, Unplanned Inc
     
 Positions of responsibility of mine include:
-    1. Chairperson, MUN Society, Debate Club, DA-IICT
-    2. Core Member, Anti Ragging Committee, DA-IICT
-    3. Associate President, DA-IICT Centre for Entrepreneurship and Incubation.
+1. Chairperson, MUN Society, Debate Club, DA-IICT
+2. Core Member, Anti Ragging Committee, DA-IICT
+3. Associate President, DA-IICT Centre for Entrepreneurship and Incubation.
     
 I am an active open source contributor in the areas of Competitive Coding, Kotlin language development, KTor, and Android. 
 
